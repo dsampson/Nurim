@@ -1,3 +1,20 @@
 body {margin:0em;
 padding: 0em}
 p {color: #992233}
+
+.box {color: green;
+border-width: 100px;
+border-color: blue;
+border-style: solid; 
+margin: 100px auto;
+width: 500px;
+height: 500px;
+position: relative;
+}
+
+#bounce {color:#0000FF;
+position: absolute;
+top: 250px;
+left: 0px;
+}
+
